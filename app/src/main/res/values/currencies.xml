@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+
+    <string-array name="currencies">
+        <item>USD - U.S. Dollar</item>
+        <item>EUR - Euro</item>
+        <item>JPY - Japanese Yen</item>
+        <item>GBP - Sterling</item>
+        <item>CNY - Renminbi</item>
+        <item>AUD - Australian Dollar</item>
+        <item>CAD - Canadian Dollar</item>
+        <item>CHF - Swiss Franc</item>
+        <item>HKD - Hong Kong Dollar</item>
+        <item>SGD - Singapore Dollar</item>
+        <item>PLN - Polish Złoty</item>
+        <item>SEK - Swedish Krona</item>
+        <item>KRW - South Korean Won</item>
+        <item>NOK - Norwegian Krone</item>
+        <item>NZD - New Zealand Dollar</item>
+        <item>INR - Indian Rupee</item>
+        <item>MXN - Mexican Peso</item>
+        <item>RUB - Russian Ruble</item>
+        <item>TWD - New Taiwan Dollar</item>
+        <item>ZAR - South African Rand</item>
+        <item>BRL - Brazillian Real</item>
+        <item>DKK - Danish Krone</item>
+        <item>THB - Thai Baht</item>
+        <item>ILS - Israeli New Shekei</item>
+        <item>IDR - Indonesian Rupiah</item>
+        <item>CZK - Czech Koruna</item>
+        <item>AED - UAE Dirham</item>
+        <item>TRY - Turkish lira</item>
+        <item>HUF - Hungarian Forint</item>
+        <item>CLP - Chilean Peso</item>
+        <item>SAR - Saudi Riyal</item>
+        <item>PHP - Philippine peso</item>
+    </string-array>
+
+
+</resources>
